@@ -1,1 +1,1 @@
-# sdp-ii-qaoa-portfolio-optimization
+This repository contains the SDP II benchmarking code for sparse portfolio optimization using QAOA, CPLEX, simulated annealing, and simulated quantum annealing. The main file is sdp2_qaoa_portfolio_benchmark.py.
